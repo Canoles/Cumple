@@ -1,0 +1,16 @@
+{
+    "id": [6],
+    "gifts": [
+        {"product": "Item1", "price": 11000},
+        {"product": "Item2", "price": 2200},
+        {"product": "Item3", "price": 33000}
+    ],
+    "members": [
+        {"id": 1, "name" : "Person1"},
+        {"id": 2, "name" : "Person2"},
+        {"id": 3, "name" : "Person3"},
+        {"id": 4, "name" : "Person4"},
+        {"id": 5, "name" : "Person5"},
+        {"id": 6, "name" : "Person6"}
+    ]
+}
